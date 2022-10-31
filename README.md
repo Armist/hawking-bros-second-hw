@@ -1,1 +1,1 @@
-# hawking-bros-second-hw
+# Hawking Bros Домашнее задание №2
